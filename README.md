@@ -1,1 +1,1 @@
-# dummyrepo
+# dummyrepo - used for testing purposes.
